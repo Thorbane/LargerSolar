@@ -1,0 +1,11 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Large Solar Panel\Source\LargerSolar\LargerSolar\bin\Release\LargerSolar.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Large Solar Panel\Source\LargerSolar\LargerSolar\bin\Release\LargerSolar.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Large Solar Panel\Source\LargerSolar\LargerSolar\bin\Release\LargerSolar.dll.CodeAnalysisLog.xml
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Large Solar Panel\Source\LargerSolar\LargerSolar\bin\Release\LargerSolar.dll.lastcodeanalysissucceeded
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Large Solar Panel\Source\LargerSolar\LargerSolar\bin\Release\Assembly-CSharp.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Large Solar Panel\Source\LargerSolar\LargerSolar\bin\Release\UnityEngine.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Large Solar Panel\Source\LargerSolar\LargerSolar\bin\Release\Assembly-CSharp-firstpass.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Large Solar Panel\Source\LargerSolar\LargerSolar\bin\Release\NAudio.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Large Solar Panel\Source\LargerSolar\LargerSolar\bin\Release\NVorbis.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Large Solar Panel\Assemblies\LargerSolar.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Large Solar Panel\Source\LargerSolar\LargerSolar\obj\Release\LargerSolar.dll
